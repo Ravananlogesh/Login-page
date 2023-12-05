@@ -61,4 +61,4 @@ Check out the live demo [here](#) [Replace with your live demo link].
 Contributions are welcome! Please read the Contributing Guidelines before making a contribution.
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](./License.txt) file for details.
+This project is licensed under the MIT License - see the [LICENSE](License) file for details.
