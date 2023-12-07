@@ -2,7 +2,8 @@
 
 A simple and secure login page for web applications, designed for ease of integration and customization.
 
-![Login Page Screenshot](./images/screenshot.png)
+![Login Page Screenshot](./images/pic1.png)
+![Login Page Screenshot](./images/pic2.png)
 
 ## Features
 
@@ -36,7 +37,7 @@ Follow these steps to integrate the login page into your project:
 
 ## Live Demo
 
-Check out the live demo [here](https://github.com/Ravananlogesh/Login-page).
+Check out the live demo [here](https://github.com/Ravananlogesh/Login-page/html/login.html).
 
 ## Usage
 
@@ -48,14 +49,10 @@ Check out the live demo [here](https://github.com/Ravananlogesh/Login-page).
 <div class="login-container">
   <!-- Your login form goes here -->
 </div>
-
-<!-- Include the JavaScript file before the closing body tag -->
-<script src="path/to/login-page.js"></script>
-
 ```
 ## Files
--/HTML/login.html: The login page HTML.
--/HTML/register.html: The registration page HTML.
+- HTML/login.html: The login page HTML.
+- HTML/register.html: The registration page HTML.
 ## Contributing
 
 Contributions are welcome! Please read the Contributing Guidelines before making a contribution.
