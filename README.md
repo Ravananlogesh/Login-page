@@ -37,7 +37,7 @@ Follow these steps to integrate the login page into your project:
 
 ## Live Demo
 
-Check out the live demo [here](https://ravananlogesh.github.io/Login-page/html/login.html).
+Check out the live demo [here](https://Ravananlogesh.github.io/Login-page/html/login.html).
 
 ## Usage
 
